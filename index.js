@@ -23,12 +23,12 @@ const questions = [
     {
         type: "input",
         message: "Write a description of your project:",
-        name: "description"
+        name: "details"
     },
     {
         type: "list",
         message: "What type of license would you like?",
-        name: "license", 
+        name: "licenses", 
         choices: ["MIT", "Apache2.0", "GPL3.0", "BSD3", "None"]
     },
     {
@@ -39,17 +39,17 @@ const questions = [
     {
         type: "input",
         message: "What tests are available for your application?",
-        name: "tests"
+        name: "test"
     },
     {
         type: "input",
         message: "What are the guidelines for using this repo?",
-        name: "usage"
+        name: "benefits"
     },
     {
         type: "input",
         message: "How can a user contribute to the repo?",
-        name: "contribution"
+        name: "contributions"
     },
 
 ];
