@@ -9,7 +9,7 @@ function generateMarkdown(data) {
     data.licenses = "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
   }
 
-    
+  // TODO: Create a function to generate markdown for README 
   return `# Table of Contents
   1. [Github](#Github)
   2. [Email](#Email)
@@ -48,6 +48,6 @@ ${data.github}
 ${data.email}
   `;
   }
-  
+  // exports
   module.exports = generateMarkdown;
   
