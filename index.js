@@ -22,7 +22,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Write a short description of your project:",
+        message: "Write a description of your project:",
         name: "description"
     },
     {
