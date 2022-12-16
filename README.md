@@ -103,4 +103,4 @@ You are required to submit the following for review:
 
 ---
 ## Video Link
-https://drive.google.com/file/d/1R3fupJ01__QF-1S2Ql2mnq7AbTkMRaqE/view?usp=sharing
+![video](assets/Untitled_%20Nov%203%2C%202022%2012_54%20PM.gif)
